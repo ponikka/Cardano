@@ -1,3 +1,3 @@
 <h1>Cardano</h1>
-<h3>Cryptography</h3>
+<h2>Cryptography</h2>
 Algorithm for encrypting phrases using the Сardano table.
